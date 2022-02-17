@@ -1,0 +1,12 @@
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-wooden.png?raw=true
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-silver.png?raw=true
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-megalightning.png?raw=true
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-magical.png?raw=true
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-gold.png?raw=true
+
+
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-epic.png?raw=true
+
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-legendary.png?raw=true
+
+https://github.com/RoyaleAPI/cr-api-assets/blob/master/chests/chest-giant.png?raw=true
