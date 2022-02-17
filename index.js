@@ -6,7 +6,7 @@ const port = 3000
 const {
     spawn
 } = require('child_process');
-const python = spawn('python3', ['python.py']);
+const python = spawn('python3', ['python.py %232GPUV2Y0 %232L0YRYUQR']);
 python.stdout.on('data', function (data) {
     dataToSend = data.toString();
 
